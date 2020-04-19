@@ -44,7 +44,7 @@ h1, li {
 
 /* Nesting SCSS Property */
 nav div a {
-  background-color: black;
+  background-color: grey;
 }
 
 /* Extend/Inheritance SCSS Property
@@ -66,5 +66,4 @@ nav div a {
     padding: 0%;
   }
 }
-
 /*# sourceMappingURL=style.css.map */
