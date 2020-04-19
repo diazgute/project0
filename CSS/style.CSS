@@ -44,7 +44,7 @@ h1, li {
 
 /* Nesting SCSS Property */
 nav div a {
-  background-color: grey;
+  background-color: blue;
 }
 
 /* Extend/Inheritance SCSS Property
