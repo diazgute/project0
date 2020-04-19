@@ -1,12 +1,12 @@
 li {
   /* Simple CSS property */
-  color: royalblue;
+  color: red;
   font: 400;
 }
 
 /* Normal selector */
 body {
-  background-image: url("/images/Cosmos.jpg");
+  background-image: url("/images/Main Label LOGO.jpg");
   background-size: cover;
 }
 
@@ -30,7 +30,7 @@ h1, li {
 
 /* For any div that is immediately the child of the container */
 .container > div {
-  background-color: salmon;
+  background-color: black;
   font-size: 20px;
   margin: 20px;
   padding: 20px;
@@ -44,7 +44,7 @@ h1, li {
 
 /* Nesting SCSS Property */
 nav div a {
-  background-color: aliceblue;
+  background-color: black;
 }
 
 /* Extend/Inheritance SCSS Property
@@ -57,7 +57,7 @@ nav div a {
 /* @media query */
 @media only screen and (max-width: 600px) {
   body {
-    background-image: url("/images/CosmosMobile.jpg");
+    background-image: url("/images/Logo Long te promo.jpg");
     background-size: cover;
   }
 
